@@ -161,10 +161,7 @@
         </p>
       </div>
 
-      <h3 style="color:#0077b6; border-bottom:3px solid #00b4d8; padding-bottom: 5px; margin-top: 0;">📋 References</h3>
-      <div style="background:#f9fbfc; border-left:4px solid #0077b6; padding:12px 16px; margin: 15px 0 0 0; border-radius:6px;">
-        <p style="margin:0; color:#333; font-style: italic;">References available upon request.</p>
-      </div>
+      
 
     </div>
 
